@@ -1,8 +1,8 @@
 ## Prerequisite installation
 
-### `Install Pretier - Code formatter`
+#### `Install Pretier - Code formatter`
 It makes .js look nicer.
-### `Install Simple React Snippets`
+#### `Install Simple React Snippets`
 The essential collection of React Snippets and commands.
 ### `npm install --save reactstrap react react-dom`
 It provides inbuilt Bootstrap components that make it easy to create UI with self-contained components that provide flexibility and inbuilt validations. 
