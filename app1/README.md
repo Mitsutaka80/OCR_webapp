@@ -13,6 +13,9 @@ Convert img to base64, or convert base64 to img.
 #### `npm i --save @fortawesome/fontawesome-svg-core`
 #### `npm install --save @fortawesome/free-solid-svg-icons`
 #### `npm install --save @fortawesome/react-fontawesome`
+React component that’s available for a friction-less way to use our icons in your React applications.
 #### `npm install --save moment react-moment`
+A JavaScript date library for parsing, validating, manipulating, and formatting dates for React. 
 
-s
+
+
